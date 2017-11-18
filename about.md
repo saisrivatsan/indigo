@@ -2,45 +2,10 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I am a Computer Science Fellow at [Harvard university](https://www.seas.harvard.edu), where I am a part of the [Visual Computing Group](https://vcg.seas.harvard.edu). I'm currently working with [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister) on Vision and Learning for Connectomics.  
+<br>
+Before coming to Harvard, I spent a year at [Microsoft Research, India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) as a Research Fellow working with [Dr. Prateek Jain](http://www.prateekjain.org) on large-scale multi-label learning.  
+<br>
+I completed my undergraduate studies at [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/). I did my undergraduate internship at [Computer Vision Lab, ETH Zurich](https://www.vision.ee.ethz.ch/en/) under the supervision of [Prof. Luc Van Gool](https://www.vision.ee.ethz.ch/en/members/detail/1/). I was also an intern at [Video Analytics Lab](http://val.serc.iisc.ernet.in/valweb/index.html) at [CDS, IISc Bangalore](http://cds.iisc.ac.in). 
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>

@@ -28,21 +28,23 @@ h4
 	font-size: 1.6rem
 
 a
-	color: $delta
-	text-decoration: underline
+	color: #0645AD
+	text-decoration: none
 
 p
 	line-height: 1.7
 	color: $alpha
 	font-weight: 300
-	margin-bottom: 20px
+	margin-bottom: 0px
+	margin-top: 0px
 	letter-spacing: 0.4px
+	text-align: justify
 
 	@media #{$mobile}
 		letter-spacing: 0.2px
 
 strong
-	font-weight: 400
+	font-weight: 550
 	color: #000
 
 ul,
@@ -51,6 +53,12 @@ ol
 		line-height: 2.4rem
 		font-weight: 300
 		color: $alpha
+		list-style: none
+		display: inline-block
+		margin-right: 1em
+		
+ul
+	padding-left: 0em
 
 img,
 pre,
@@ -104,7 +112,6 @@ tt
 pre
 	box-sizing: border-box
 	margin: 0 0 1.75em 0
-	width: 100%
 	padding: 5px 10px
 	font-family: $fontMonospace
 	font-size: 1.2rem
@@ -113,6 +120,8 @@ pre
 	background: #fff
 	border: 1px solid $epsilon
 	border-radius: 2px
+	display: inline-block
+	margin-bottom: 0px
 
 .wrapper-normal,
 .wrapper-large
@@ -131,3 +140,5 @@ pre
 
 .wrapper-large
 	max-width: 810px
+
+

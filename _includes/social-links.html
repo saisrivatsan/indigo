@@ -83,16 +83,10 @@
         </a>
     {% endif %}
 
-    {% if site.vimeo %}
-        <a class="link" data-title="vimeo.com/{{ site.vimeo }}" href="https://vimeo.com/{{ site.vimeo }}" target="_blank">
-            <svg class="icon icon-vimeo"><use xlink:href="#icon-vimeo"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.lanyrd %}
-        <a class="link" data-title="lanyrd.com/{{ site.lanyrd }}" href="https://lanyrd.com/{{ site.lanyrd }}" target="_blank">
-            <svg class="icon icon-microphone"><use xlink:href="#icon-microphone"></use></svg>
-        </a>
+	{% if site.scholar %}
+        <a class="link" data-title="scholar.google.com/@{{ site.scholar }}" href="https://scholar.google.com/{{ site.scholar }}" target="_blank">
+     		<svg class="icon icon-medium"><use xlink:href="#icon-scholar"></use></svg>
+		</a>
     {% endif %}
 
     {% if site.email %}
